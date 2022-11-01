@@ -1,0 +1,32 @@
+.Subtotal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 300px;
+    height: 100px;
+    padding: 20px;
+    background-color:rgb(255, 254, 254);
+    border: 1px solid azure;
+    border-radius: 3px;
+    
+}
+
+.suptotel__gift{
+    display: flex;
+   
+    margin-top: 10px;
+    position: relative;
+    right: 80px;
+}
+
+
+
+.Subtotal button{
+    background-color: #f0c14b;
+    border-radius: 5px;
+    
+    height: 170px;
+    border: 1px solid;
+    margin-top: 10px;
+    background-color: #f0c14b;
+}

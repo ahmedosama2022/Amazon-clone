@@ -1,0 +1,16 @@
+.CeckProduct{
+    background-color: white;
+    display: flex;
+    padding-left: 20px;
+    padding: 20px;
+}
+
+.CeckProduct button{
+    background-color: #f0c14b;
+    height: 30px;
+    border: #f0c14b;
+}
+
+.CeckProduct .info{
+    margin-left: 20px;
+}

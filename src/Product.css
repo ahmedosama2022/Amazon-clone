@@ -1,0 +1,43 @@
+.product{
+    display: flex;
+    flex-direction: column;
+   background-color: white;
+   z-index: 1;
+   position: relative;
+   bottom: 200px;
+  width: 100%;
+   min-height: 400px;
+   padding: 20px;
+   margin: 10px;
+   align-items: center;
+   justify-content: flex-end;
+}
+
+
+
+.product image{
+    height: 300px;
+    width: 180px;
+    object-fit: contain;
+    margin-bottom: 15px;
+}
+.product__info{
+    height: 100px;
+    margin-bottom: 15px;
+
+}
+.prodcut__price{
+    margin-top: 5px;
+    font-size: 20px;
+}
+
+
+.product button{
+    background-color:#f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border:#a88734 #9c7e31 #846a29;
+    height: 30px;
+    width: 150px;
+    color: black;
+}
